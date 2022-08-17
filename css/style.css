@@ -25,6 +25,7 @@ html{
     left: 0px;
     opacity: 0.5;
     z-index: -1;
+    padding-bottom: 12px;
 }
 
 /* logo */
@@ -33,7 +34,8 @@ html{
 
 }
 #logo img{
-height: 40px;
+    height: 49px;
+    padding: 0px 127px;
 }
 
 #navbar ul{
@@ -105,7 +107,7 @@ height: 40px;
 }
 
 #services .box img{
-    height: 160px;
+    height: 290px;
     display: block;
     margin: auto;
 }
